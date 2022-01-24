@@ -14,4 +14,4 @@
 
 2.It helps me deal with imbalanced data
 
-3. How to generate the embedded vectors for text data 
+3.How to generate the embedded vectors for text data 
